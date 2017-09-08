@@ -1,0 +1,17 @@
+P2
+Down	
+Down
+Down
+Down
+Down
+Down
+Right
+Right
+Right
+Up
+Up
+Right
+Right
+Down
+Down
+Down
